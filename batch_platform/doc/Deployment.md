@@ -58,7 +58,6 @@ python batchingestmanager.py
 ```
 After started this program, it asks for a data directory and customer ID.
 You can use the following values for test customer:
-- data directory: `~/assignment-2-478360/data`
 - customer ID: `A` or `B`
 
 To demonstrate batch processing, there is a test program:
